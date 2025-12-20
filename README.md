@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Deependra Bhatta 👋</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+DevOps+Engineer;Learning+%26+Building+Daily+🚀;Automating+Infrastructure;Security-First+Mindset+🔒" alt="Typing SVG" />
   
   <br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/deependra-bhatta-15a1ba203/])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deependra-bhatta-15a1ba203/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattadeependra05@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.deependrabhatta.com.np)
   
@@ -95,7 +95,6 @@ Automated deployment on VMs using Jenkins orchestration, Harbor registry, and An
 <div align="center">
   
   [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/Simple_Java_TM/tree/harbor)
-  ![Stars](https://img.shields.io/github/stars/dipen674/Simple_Java_TM?style=flat-square&color=yellow)
   
 </div>
 
@@ -123,7 +122,6 @@ Production-grade MERN deployment on Kubernetes using Helm charts and GitHub Acti
 <div align="center">
   
   [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/mern_admin_nodejs_fullstack)
-  ![Stars](https://img.shields.io/github/stars/dipen674/mern_admin_nodejs_fullstack?style=flat-square&color=yellow)
   
 </div>
 
@@ -154,7 +152,6 @@ Build-to-deploy automation focusing on secure image storage in a private Harbor 
 <div align="center">
   
   [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/Ansible_Project/tree/main)
-  ![Stars](https://img.shields.io/github/stars/dipen674/Ansible_Project?style=flat-square&color=yellow)
   
 </div>
 
@@ -182,7 +179,6 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 <div align="center">
   
   [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/Django_React_application)
-  ![Stars](https://img.shields.io/github/stars/dipen674/Django_React_application?style=flat-square&color=yellow)
   
 </div>
 
@@ -203,24 +199,12 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipen674&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipen674&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-</div>
-
----
-
-## 🎖️ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipen674&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -268,7 +252,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 - 🔒 [Implementing DevSecOps in Personal Projects](#)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [View all my projects](https://github.com/YOUR_USERNAME?tab=repositories)
+➡️ [View all my projects](https://github.com/dipen674?tab=repositories)
 
 ---
 
@@ -278,10 +262,11 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 **I'm eager to learn, collaborate, and grow in the DevOps space!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deependra-bhatta-15a1ba203/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipendrabhatta21/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipendra.bhatta.244268/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deependrabhatta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattadeependra05@gmail.com)
 
 *Open to mentorship, collaboration, and junior DevOps opportunities!*
 
