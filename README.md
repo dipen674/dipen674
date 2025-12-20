@@ -78,7 +78,7 @@ current_status: "Growing through hands-on projects 🌱"
 **End-to-End CI/CD Pipeline**
 
 <a href="https://github.com/dipen674/Simple_Java_TM/tree/harbor">
-  <img src="images/taskmanager/flow-diagra.jpeg" width="100%" alt="Task Manager Architecture"/>
+  <img src="Java_taskmanager.jpeg" width="100%" alt="Task Manager Architecture"/>
 </a>
 
 Automated deployment on VMs using Jenkins orchestration, Harbor registry, and Ansible configuration.
@@ -105,7 +105,7 @@ Automated deployment on VMs using Jenkins orchestration, Harbor registry, and An
 **K8s Orchestration & GitOps**
 
 <a href="https://github.com/dipen674/mern_admin_nodejs_fullstack">
-  <img src="images/idurar-erp/flowchar.jpeg" width="100%" alt="IDURAR Architecture"/>
+  <img src="IEURP.jpeg" width="100%" alt="IDURAR Architecture"/>
 </a>
 
 Production-grade MERN deployment on Kubernetes using Helm charts and GitHub Actions.
@@ -135,7 +135,7 @@ Production-grade MERN deployment on Kubernetes using Helm charts and GitHub Acti
 **Secure Artifact Registry**
 
 <a href="https://github.com/dipen674/Ansible_Project/tree/main">
-  <img src="images/nodejs_taskmanager/flowchar.jpeg" width="100%" alt="MERN Task Manager"/>
+  <img src="Taskmanager_MERN.jpeg" width="100%" alt="MERN Task Manager"/>
 </a>
 
 Build-to-deploy automation focusing on secure image storage in a private Harbor registry.
@@ -162,7 +162,7 @@ Build-to-deploy automation focusing on secure image storage in a private Harbor 
 **Micro-Container Architecture**
 
 <a href="https://github.com/dipen674/Django_React_application">
-  <img src="images/devconnector/Dashboard.png" width="100%" alt="DevConnector Dashboard"/>
+  <img src="Django_app.png" width="100%" alt="DevConnector Dashboard"/>
 </a>
 
 Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
