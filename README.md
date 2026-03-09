@@ -53,9 +53,9 @@ current_status: "Deploying production sites & building scalable infra ⚡"
 
 | # | Site | Stack | Status |
 |:-:|------|-------|:------:|
-| 1 | [**sbrsuccess.com.au**](https://sbrsuccess.com.au) | AWS CDK · CloudFront · Lambda · WAF · MongoDB | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
-| 2 | [**devpulse.info**](https://devpulse.info) | AWS · CloudFront · S3 · CI/CD | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
-| 3 | [**sanatanjyotish.com**](https://sanatanjyotish.com) | AWS · CloudFront · Route53 · SSL | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 1 | [**sbrsuccess.com.au**](https://sbrsuccess.com.au) | AWS CDK · CloudFront · Lambda · WAF · Supabase · app runner | code pipeline | github actions | schedulers | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 2 | [**devpulse.info**](https://devpulse.info) | AWS · CloudFront · S3 · CI/CD · Amplify · GitHub Actions · Lightsail |  ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 3 | [**sanatanjyotish.com**](https://sanatanjyotish.com) | Github Actions · VPS · Grafana · SSL | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
 <!-- ADD NEW SITES HERE — copy a row above, increment #, and fill in details -->
 
 </div>
