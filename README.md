@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="devops_banner.png" width="100%" alt="Deependra Bhatta - Mid-Level DevOps Engineer banner"/>
+  <br/>
+  
   <h1>Hi there, I'm Deependra Bhatta 👋</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Mid-Level+DevOps+Engineer;Building+%26+Shipping+Production+Infrastructure+🚀;Automating+Everything+That+Can+Be+Automated;Security-First+%7C+Cloud-Native+%7C+CI%2FCD+🔒" alt="Typing SVG" />
@@ -53,9 +56,9 @@ current_status: "Deploying production sites & building scalable infra ⚡"
 
 | # | Site | Stack | Status |
 |:-:|------|-------|:------:|
-| 1 | [**sbrsuccess.com.au**](https://sbrsuccess.com.au) | AWS CDK · CloudFront · Lambda · WAF · Supabase · app runner | code pipeline | github actions | schedulers | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
-| 2 | [**devpulse.info**](https://devpulse.info) | AWS · CloudFront · S3 · CI/CD · Amplify · GitHub Actions · Lightsail |  ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
-| 3 | [**sanatanjyotish.com**](https://sanatanjyotish.com) | Github Actions · VPS · Grafana · SSL | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 1 | [**sbrsuccess.com.au**](https://sbrsuccess.com.au) | AWS CDK · CloudFront · Lambda · WAF · Supabase · App Runner · CodePipeline · GitHub Actions · Schedulers | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 2 | [**devpulse.info**](https://devpulse.info) | AWS · CloudFront · S3 · CI/CD · Amplify · GitHub Actions · Lightsail | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 3 | [**sanatanjyotish.com**](https://sanatanjyotish.com) | GitHub Actions · VPS · Grafana · SSL | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
 <!-- ADD NEW SITES HERE — copy a row above, increment #, and fill in details -->
 
 </div>
@@ -115,6 +118,19 @@ current_status: "Deploying production sites & building scalable infra ⚡"
 
 ### 🗃️ Automated DB Backup Pipeline
 **Database → Encrypt → S3**
+
+Hands-off automated backup system for production databases with enterprise-grade security.
+
+```mermaid
+graph LR
+    DB[(Database)] --> Dump[Automated Dump]
+    Dump --> Encrypt[AES-256 Encryption]
+    Encrypt --> Hash[SHA-256 Checksum]
+    Hash --> S3{AWS S3 Bucket}
+    S3 -- Lifecycle --> Glacier[Archive]
+    S3 -- Integrity --> Verify[Audit Check]
+    Verify -- Alert --> Slack[Slack Notify]
+```
 
 Hands-off automated backup system for production databases with enterprise-grade security.
 
