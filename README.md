@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Deependra Bhatta 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+DevOps+Engineer;Learning+%26+Building+Daily+🚀;Automating+Infrastructure;Security-First+Mindset+🔒" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Mid-Level+DevOps+Engineer;Building+%26+Shipping+Production+Infrastructure+🚀;Automating+Everything+That+Can+Be+Automated;Security-First+%7C+Cloud-Native+%7C+CI%2FCD+🔒" alt="Typing SVG" />
   
   <br/>
   
@@ -17,28 +17,48 @@
 
 ```yaml
 name: Deependra Bhatta
-role: Junior DevOps Engineer
+role: Mid-Level DevOps Engineer
 location: Kirtipur, Nepal
-focus: 
-  - Learning Infrastructure as Code (Terraform)
-  - Building CI/CD Pipelines
-  - Container Orchestration (Docker & K8s)
-  - DevSecOps Practices
-philosophy: "Automate to learn, learn to automate"
-current_status: "Growing through hands-on projects 🌱"
+focus:
+  - Production Infrastructure & Cloud Architecture (AWS)
+  - CI/CD Pipeline Design & Automation
+  - Infrastructure as Code (Terraform, AWS CDK)
+  - Container Orchestration (Docker & Kubernetes)
+  - Database Automation & Backup Engineering
+  - DevSecOps & Security Hardening
+philosophy: "If it can be automated, it should be automated."
+current_status: "Deploying production sites & building scalable infra ⚡"
 ```
 
 <details>
-<summary>📊 <b>Explore My Journey</b></summary>
+<summary>📊 <b>More About My Journey</b></summary>
 <br/>
 
-- 🔭 **Currently working on:** Building real-world DevOps projects
-- 🌱 **Learning:** Kubernetes and Cloud-Native tools
-- 💡 **Interests:** Site Reliability Engineering and Infrastructure Automation
-- 🎯 **Goal:** Contribute to open-source DevOps tools
-- ⚡ **Fun fact:** I run a home lab to practice production scenarios!
+- 🔭 **Currently:** Deploying & managing production websites and cloud infrastructure
+- ☁️ **Cloud:** Designing and operating AWS-based architectures (EC2, S3, CloudFront, Lambda, WAF, CDK)
+- 🔐 **Security:** Implementing WAF rules, encrypted backups, and secrets management
+- 🤖 **Automation:** Building scripts for DB backups, S3 storage with encryption & integrity checks
+- 🎯 **Goal:** Architect highly available, cost-optimized cloud-native solutions
+- ⚡ **Fun fact:** I automate my own workflows before automating others!
 
 </details>
+
+---
+
+## 🌐 Production Sites — Live & Deployed
+
+> Real-world websites I've architected, deployed, and currently manage in production.
+
+<div align="center">
+
+| # | Site | Stack | Status |
+|:-:|------|-------|:------:|
+| 1 | [**sbrsuccess.com.au**](https://sbrsuccess.com.au) | AWS CDK · CloudFront · Lambda · WAF · MongoDB | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 2 | [**devpulse.info**](https://devpulse.info) | AWS · CloudFront · S3 · CI/CD | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 3 | [**sanatanjyotish.com**](https://sanatanjyotish.com) | AWS · CloudFront · Route53 · SSL | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+<!-- ADD NEW SITES HERE — copy a row above, increment #, and fill in details -->
+
+</div>
 
 ---
 
@@ -46,13 +66,22 @@ current_status: "Growing through hands-on projects 🌱"
 
 <div align="center">
 
-### 💻 Infrastructure & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-### 📦 Container Ecosystem
+### 💻 CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white)
@@ -63,8 +92,62 @@ current_status: "Growing through hands-on projects 🌱"
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- ADD NEW BADGES HERE — use the format: ![Name](https://img.shields.io/badge/...) -->
 
 </div>
+
+---
+
+## ⚙️ Automation & Scripts
+
+> Production-grade automation scripts I've built and operate in real environments.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗃️ Automated DB Backup Pipeline
+**Database → Encrypt → S3**
+
+Hands-off automated backup system for production databases with enterprise-grade security.
+
+**What it does:**
+- ✅ Scheduled automated database dumps (MongoDB / PostgreSQL / MySQL)
+- ✅ AES-256 encryption at rest before upload
+- ✅ SHA-256 checksum (shasum) generation for integrity verification
+- ✅ Automated upload to S3 with versioning & lifecycle policies
+- ✅ Slack/email notifications on success or failure
+
+**🔧 Built with:** Bash · AWS CLI · OpenSSL · Cron · S3
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Pipelines
+**Push → Build → Test → Deploy**
+
+End-to-end deployment pipelines powering the production sites listed above.
+
+**What they do:**
+- ✅ Multi-environment pipelines (dev → staging → prod)
+- ✅ Automated testing, linting, and security scans
+- ✅ Infrastructure deployments via AWS CDK / Terraform
+- ✅ Zero-downtime deployments with CloudFront invalidation
+- ✅ Branch-based trigger strategies (main, dev, feature)
+
+**🔧 Built with:** GitHub Actions · AWS CDK · Docker · Node.js
+
+</td>
+</tr>
+<!-- ADD NEW AUTOMATION PROJECTS HERE — copy a <tr>...</tr> block above -->
+</table>
 
 ---
 
@@ -184,6 +267,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 </td>
 </tr>
+<!-- ADD NEW PROJECTS HERE — copy a <tr>...</tr> block above -->
 </table>
 
 <div align="center">
@@ -209,23 +293,28 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 ---
 
-## 💼 Learning Journey
+## 💼 Professional Experience & Growth
 
 <details>
-<summary><b>🎓 Click to view my learning path</b></summary>
+<summary><b>📈 Click to expand my career timeline</b></summary>
 <br/>
 
-**Personal Projects & Labs** | 2023 - Present
-- 🚀 Built 4+ end-to-end DevOps projects with CI/CD pipelines
+### 🟢 Mid-Level DevOps Engineer — *Present*
+- 🌐 Deployed & managing **3+ production websites** serving real users
+- ☁️ Designing AWS cloud architectures (CDK, CloudFront, Lambda, WAF, S3)
+- 🤖 Built automated DB backup pipelines with encryption & integrity verification
+- 🔄 Created multi-environment CI/CD pipelines (GitHub Actions)
+- 🔐 Implemented WAF rules, secrets management, and security hardening
+- � Conducted production database audits (PostgreSQL, MySQL, MongoDB)
+
+### 🔵 Junior DevOps Engineer — *Earlier*
+- �🚀 Built 4+ end-to-end DevOps projects with CI/CD pipelines
 - ☸️ Deployed applications on Kubernetes using Helm
 - 🔒 Implemented security scanning with Trivy & SonarQube
 - 📊 Set up monitoring with Prometheus & Grafana
+- 🏠 Ran a home lab to practice production scenarios
 
-**Key Achievements:**
-- ✅ Automated deployment workflows saving hours of manual work
-- ✅ Containerized multiple full-stack applications
-- ✅ Configured production-like infrastructure on local lab
-- ✅ Active contributor learning from the DevOps community
+<!-- ADD NEW CAREER MILESTONES HERE -->
 
 </details>
 
@@ -235,24 +324,15 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 <div align="center">
 
+[![AWS](https://img.shields.io/badge/☁️-AWS_Cloud_Practitioner-FF9900?style=for-the-badge)]()
 [![Learning](https://img.shields.io/badge/📚-Continuous_Learner-FFA500?style=for-the-badge)]()
 [![Labs](https://img.shields.io/badge/🧪-Home_Lab_Enthusiast-00D9FF?style=for-the-badge)]()
 
-*Currently preparing for CKA and AWS certifications*
+<!-- ADD NEW CERTIFICATION BADGES HERE -->
+
+*Preparing for CKA and AWS Solutions Architect certifications*
 
 </div>
-
----
-
-## 📝 Latest Learning & Projects
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building My First Production-Ready CI/CD Pipeline](#)
-- ☸️ [Deploying MERN Stack on Kubernetes - Lessons Learned](#)
-- 🔒 [Implementing DevSecOps in Personal Projects](#)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [View all my projects](https://github.com/dipen674?tab=repositories)
 
 ---
 
@@ -260,7 +340,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 <div align="center">
 
-**I'm eager to learn, collaborate, and grow in the DevOps space!**
+**I build production infrastructure, automate operations, and ship reliable systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deependra-bhatta-15a1ba203/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipendrabhatta21/)
@@ -268,7 +348,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deependrabhatta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattadeependra05@gmail.com)
 
-*Open to mentorship, collaboration, and junior DevOps opportunities!*
+*Open to collaboration, consulting, and DevOps opportunities!*
 
 </div>
 
