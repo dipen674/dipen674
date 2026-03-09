@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="devops_banner.png" width="100%" alt="Deependra Bhatta - Mid-Level DevOps Engineer banner"/>
+  <img src="devops_bannerr.png" width="100%" alt="Deependra Bhatta - Mid-Level DevOps Engineer banner"/>
   <br/>
   
   <h1>Hi there, I'm Deependra Bhatta 👋</h1>
