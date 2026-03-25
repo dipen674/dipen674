@@ -59,6 +59,8 @@ current_status: "Deploying production sites & building scalable infra ⚡"
 | 1 | [**sbrsuccess.com.au**](https://sbrsuccess.com.au) | AWS CDK · CloudFront · Lambda · WAF · Supabase · App Runner · CodePipeline · GitHub Actions · Schedulers | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
 | 2 | [**devpulse.info**](https://devpulse.info) | AWS · CloudFront · S3 · CI/CD · Amplify · GitHub Actions · Lightsail | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
 | 3 | [**sanatanjyotish.com**](https://sanatanjyotish.com) | GitHub Actions · VPS · Grafana · SSL | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 4 | [**aatmavedalab.com**](https://aatmavedalab.com/) | VPS · GitHub Actions · Trivy · App Runner · Portainer · Dozzle · Monitoring · DB Migration | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
+| 5 | [**happyminds.aatmavedalab.com**](https://happyminds.aatmavedalab.com/) | VPS · GitHub Actions · Trivy · App Runner · Portainer · Dozzle · Monitoring · DB Migration | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=statuspage&logoColor=white) |
 <!-- ADD NEW SITES HERE — copy a row above, increment #, and fill in details -->
 
 </div>
@@ -316,7 +318,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 <br/>
 
 ### 🟢 Mid-Level DevOps Engineer — *Present*
-- 🌐 Deployed & managing **3+ production websites** serving real users
+- 🌐 Deployed & managing **5+ production websites** serving real users
 - ☁️ Designing AWS cloud architectures (CDK, CloudFront, Lambda, WAF, S3)
 - 🤖 Built automated DB backup pipelines with encryption & integrity verification
 - 🔄 Created multi-environment CI/CD pipelines (GitHub Actions)
